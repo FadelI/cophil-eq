@@ -1,7 +1,7 @@
 # cophil-eq
 A repository for the second GMS training course with tutorials about earthquakes and InSAR
 
-In this repository, there are jupyter notebooks for the demostrations of sime basic applicatons of InSAR for earthquakes
+In this repository are jupyter notebooks for demonstrating some basic fundamentals of InSAR for earthquakes.
 
 ## Getting started
 
