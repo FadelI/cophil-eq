@@ -8,6 +8,6 @@ In this repository, there are jupyter notebooks for the demostrations of sime ba
 The easiest way is to use colab to run the tutorials:
 | Tutorials                                        |  |
 |--------------------------------------------------|---|
-| Synthetic displacement                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
+| Synthetic displacement                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut01_synth.ipynb) |
 | Earthquake displacement                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
 
