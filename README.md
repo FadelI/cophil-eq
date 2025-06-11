@@ -10,5 +10,6 @@ The easiest way is to use colab to run the tutorials:
 |--------------------------------------------------|---|
 | Synthetic displacement                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut01_synth.ipynb) |
 | Earthquake displacement                                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut02_okada.ipynb) |
-| PSI analysis for 20190422 earthquake                                  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FadelI/cophil-eq/blob/main/tutorials/tut03_psi_eq.ipynb) |
+| Get earthquakes                                  | (https://github.com/FadelI/cophil-eq/blob/main/tutorials/tut03_geteq.ipynb) |
+| PSI analysis for 20190422 earthquake                                  | (https://github.com/FadelI/cophil-eq/blob/main/tutorials/tut04_psieq.ipynb) |
 
